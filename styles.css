@@ -1,0 +1,29 @@
+.meny {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+ 
+
+
+}
+
+.option-1 {
+    background-color: #666666;
+   
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+   
+}
+
+.option-234 {
+background-color: #EEEEEE;
+   
+   text-decoration: none;
+   color: black;
+   padding: 10px;
+}
